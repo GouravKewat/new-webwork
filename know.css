@@ -1,0 +1,56 @@
+*{
+background-color:white;
+font-family:Bradley Hand ITC;
+background-color:lightblue;
+text-align:center; 
+ 
+ }
+img{
+	
+	height:500px;
+	width:500px;	
+	border-color:black;
+	border:2px;
+}
+.nav {
+  background-color: skyblue; 
+  list-style-type: none; 
+text-align:center;  
+  margin: 0;
+padding: 0;
+}
+.nav li {
+  display: inline-block;
+  font-size:5px;
+  padding:5px;
+  font-size:20px;
+}
+ .menu{
+	color:black;
+	width:50% right;
+}
+.header{  
+padding:2px;
+background-color:skyblue;
+margin:2px; 
+
+}
+.menu h4{
+	text-decoration:underline;
+	text-decoration:bold;
+	font-size:30px;
+}
+.main {
+	text-align:center;
+}
+body{
+	font-size:20px;
+	
+}
+table,th,td{
+	text-align:center;
+	border:1px solid blue;
+}
+ooh{
+	text-align:center;
+}
